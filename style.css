@@ -31,7 +31,7 @@ nav a:hover {
 
 .hero {
     height: 90vh;
-    background: url(hero.jpg) no-repeat center center/cover;
+    background: url('hero.jpg') no-repeat center center/cover;
     color: white;
     display: flex;
     flex-direction: column;
@@ -77,11 +77,11 @@ height:400px;
 }
 
 .about-banner {
-    background: url(about.jpg) no-repeat center center/cover;
+    background: url('about.jpg') no-repeat center center/cover;
 }
 
 .services-banner {
-    background: url(service-banner.jpg) no-repeat center center/cover;
+    background: url('service-banner.jpg') no-repeat center center/cover;
 }
 
 .content {
@@ -136,4 +136,5 @@ footer {
     padding: 20px;
 
 }
+
 
